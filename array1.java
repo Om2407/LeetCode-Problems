@@ -11,7 +11,7 @@ public class array1 {
         }
         int x = sc.nextInt();
         // print the number in array
-        for (int i = 0; i < number.length; i++) {
+        for (int i = 0; i < number.length; i++) { 
             if (number[i] == x) {
                 System.out.println("x found at : " + i);
             }

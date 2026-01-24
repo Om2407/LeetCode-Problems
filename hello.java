@@ -1,4 +1,4 @@
-public class array9 {
+public class hello {
     // same as array5 Q but the element with max frequency
     //which element is repeated max no. of times
     public static void main(String args[]) {
