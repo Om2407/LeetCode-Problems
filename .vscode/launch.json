@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MaximumRotatedSortArray",
+            "request": "launch",
+            "mainClass": "MaximumRotatedSortArray",
+            "projectName": "Revise.Java_8f29b969"
+        },
+        {
+            "type": "java",
+            "name": "MinimumRotatedSortArray",
+            "request": "launch",
+            "mainClass": "MinimumRotatedSortArray",
+            "projectName": "Revise.Java_8f29b969"
+        },
+        {
+            "type": "java",
             "name": "MaximumProductSubaaray",
             "request": "launch",
             "mainClass": "MaximumProductSubaaray",
