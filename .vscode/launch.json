@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MaximumProductSubaaray",
+            "request": "launch",
+            "mainClass": "MaximumProductSubaaray",
+            "projectName": "Revise.Java_8f29b969"
+        },
+        {
+            "type": "java",
+            "name": "ProductOfArray",
+            "request": "launch",
+            "mainClass": "ProductOfArray",
+            "projectName": "Revise.Java_8f29b969"
+        },
+        {
+            "type": "java",
             "name": "BuySell",
             "request": "launch",
             "mainClass": "BuySell",
