@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SubArraySumEqK",
+            "request": "launch",
+            "mainClass": "SubArraySumEqK",
+            "projectName": "Revise.Java_8f29b969"
+        },
+        {
+            "type": "java",
+            "name": "MajorityElement",
+            "request": "launch",
+            "mainClass": "MajorityElement",
+            "projectName": "Revise.Java_8f29b969"
+        },
+        {
+            "type": "java",
             "name": "MaximumRotatedSortArray",
             "request": "launch",
             "mainClass": "MaximumRotatedSortArray",
