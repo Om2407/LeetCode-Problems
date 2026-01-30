@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "EquilibriumIndex",
+            "request": "launch",
+            "mainClass": "EquilibriumIndex",
+            "projectName": "Revise.Java_8f29b969"
+        },
+        {
+            "type": "java",
+            "name": "MergeTwoArray",
+            "request": "launch",
+            "mainClass": "MergeTwoArray",
+            "projectName": "Revise.Java_8f29b969"
+        },
+        {
+            "type": "java",
+            "name": "BinarySearch",
+            "request": "launch",
+            "mainClass": "BinarySearch",
+            "projectName": "Revise.Java_8f29b969"
+        },
+        {
+            "type": "java",
             "name": "SubArraySumEqK",
             "request": "launch",
             "mainClass": "SubArraySumEqK",
