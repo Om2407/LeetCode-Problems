@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SortArrayIncreFreq",
+            "request": "launch",
+            "mainClass": "SortArrayIncreFreq",
+            "projectName": "Revise.Java_8f29b969"
+        },
+        {
+            "type": "java",
+            "name": "MergeIntervals",
+            "request": "launch",
+            "mainClass": "MergeIntervals",
+            "projectName": "Revise.Java_8f29b969"
+        },
+        {
+            "type": "java",
+            "name": "KthLargestELement",
+            "request": "launch",
+            "mainClass": "KthLargestELement",
+            "projectName": "Revise.Java_8f29b969"
+        },
+        {
+            "type": "java",
+            "name": "Solution",
+            "request": "launch",
+            "mainClass": "Solution",
+            "projectName": "Revise.Java_8f29b969"
+        },
+        {
+            "type": "java",
+            "name": "SortColors",
+            "request": "launch",
+            "mainClass": "SortColors",
+            "projectName": "Revise.Java_8f29b969"
+        },
+        {
+            "type": "java",
             "name": "RemoveAdjacent",
             "request": "launch",
             "mainClass": "RemoveAdjacent",
