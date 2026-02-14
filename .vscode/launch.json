@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CopyRandomPointer",
+            "request": "launch",
+            "mainClass": "CopyRandomPointer",
+            "projectName": "Revise.Java_8f29b969"
+        },
+        {
+            "type": "java",
+            "name": "PalindromeLL",
+            "request": "launch",
+            "mainClass": "PalindromeLL",
+            "projectName": "Revise.Java_8f29b969"
+        },
+        {
+            "type": "java",
+            "name": "RemoveDuplicates",
+            "request": "launch",
+            "mainClass": "RemoveDuplicates",
+            "projectName": "Revise.Java_8f29b969"
+        },
+        {
+            "type": "java",
+            "name": "middleNode",
+            "request": "launch",
+            "mainClass": "middleNode",
+            "projectName": "Revise.Java_8f29b969"
+        },
+        {
+            "type": "java",
+            "name": "ReverseLL",
+            "request": "launch",
+            "mainClass": "ReverseLL",
+            "projectName": "Revise.Java_8f29b969"
+        },
+        {
+            "type": "java",
             "name": "SortArrayIncreFreq",
             "request": "launch",
             "mainClass": "SortArrayIncreFreq",
